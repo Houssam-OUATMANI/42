@@ -1,0 +1,5 @@
+Credentials cache: API:04B473DA-B44B-430C-9E96-CADA591034D3
+        Principal: houatman@42.FR
+
+  Issued                Expires               Principal
+Sep  8 13:55:01 2020  Sep 15 13:55:01 2020  krbtgt/42.FR@42.FR
